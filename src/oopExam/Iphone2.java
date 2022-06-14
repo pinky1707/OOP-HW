@@ -8,7 +8,7 @@ package oopExam;
 public class Iphone2 {
 	
 	
-	/*
+	/*1)
 	 *In IPhone2, Initialize a char variable
 	 * userOfIphone2 (M or F). create default and parameterized constructor, a void
 	 * type method iPhone2Info, a parameterized method with same name iPhone2Info

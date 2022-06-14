@@ -1,12 +1,13 @@
 package oopExam;
 
 /*
+ write inside multiple line comments what you know about Abstract class
 Here, Can you make a relationship of AppleWatch with Watch, DigitalWatch, and AppleWatchSeries5? [points: 70] . 
  */
 
 public abstract class AppleWatch {
 	/*
-Can you create a constructor inside Abstract Class? Can you instantiate it?
+Can you create a variable and constructor inside Abstract Class? Can you instantiate it?
      */
 	
 	
