@@ -1,7 +1,7 @@
 package oopExam;
 
 /*
- what is the relation between regular class, Abstract class and Interface? Can you make a relation of Iphone1 with Phone Interface and AppleWatch Abstract class. [Complete the code after answering above]. [points: 30] . 
+1)  Can you make a relation of Iphone1 with Phone Interface and AppleWatch Abstract class. [Complete the code after answering above]. [points: 30] . 
 
  */
 
@@ -15,7 +15,7 @@ public class Iphone1 {
 	 */
 	
 	/*
-	 * 07) Again, here in Iphone1, we got 4 private variables we know. Create 2
+	 * 3) Again, here in Iphone1, we got 4 private variables we know. Create 2
 	 * constructors inside it using that 4 private variables -- default and
 	 * parameterized after those variables (obviously before methods and after
 	 * variables), now go to Iphone2 class.
