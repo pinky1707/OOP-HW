@@ -90,10 +90,6 @@ public class TestPhone {
 		 * because Iphone6 object call this method from Iphone5 Iphone6 extends Iphone5
 		 * (only one level)-single inheritance
 		 * 
-		 * Instantiate Iphone6 in TestPhone and show how many methods they can call in
-		 * TestPhone. [points: 70] . Comment out at the end of TestPhone to inform me
-		 * which is hierarchical inheritance, multilevel inheritance, and single
-		 * 
 		 */
 
 	}
