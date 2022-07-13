@@ -1,5 +1,6 @@
 package oopExam;
 
 public interface DigitalWatch {
-	// create  a method
+	public void digitalwatchInfo();
+	
 }
